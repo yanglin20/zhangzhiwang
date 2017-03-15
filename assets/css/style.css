@@ -72,7 +72,6 @@
 }
 
 .tab2{
-	width: 100%;
 	margin-top: 30px;
 	padding: 20px 0;
 	background-color: #eeeeee;
@@ -100,9 +99,9 @@
 	margin-bottom: 20px;
 }
 .tab3 .tab3-right{
-	display: inline-block;
-	vertical-align: middle;
+	margin-top: 60px;             
 }
+
 .tab3  h3{
 	font-size: 20px;
 	text-align: center;
